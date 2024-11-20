@@ -21,7 +21,11 @@
   <project_license>GPL-2.0</project_license>
   <releases>
     <release version="1.0.5" date="2024-11-20">
-      <description></description>
+      <description>
+        <li>
+          <ul>Added Bengali language (@rez1coder)</ul>
+        </li>
+      </description>
     </release>
     <release version="1.0.4" date="2024-11-01">
       <description>
