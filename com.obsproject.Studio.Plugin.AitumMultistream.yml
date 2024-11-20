@@ -22,8 +22,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/Aitum/obs-aitum-multistream
-        tag: 1.0.4
-        commit: 99a34cee3b97adc23bf5ceb5bfd9e41df0e8470e
+        tag: 1.0.5
+        commit: 75a528caec59158a8a1e99b6e81a150ec2cc72bc
         x-checker-data:
           type: git
           is-main-source: true
