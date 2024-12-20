@@ -20,6 +20,9 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
   <releases>
+    <release version="1.0.6" date="2024-12-20">
+      <description></description>
+    </release>
     <release version="1.0.5" date="2024-11-20">
       <description>
         <li>
