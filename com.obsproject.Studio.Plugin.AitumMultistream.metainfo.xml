@@ -6,13 +6,15 @@
   <developer id="tv.aitum">
     <name>Aitum Team</name>
   </developer>
-  <summary>The Aitum Multistream Plugin lets you go live on as many platforms as possible, completely free</summary>
+  <summary>The Aitum Multistream Plugin lets you go live on many platforms, completely free</summary>
   <description>
-    <p>Multistreaming shouldn't be difficult. Aitum Multistream makes that a reality.</p>
-    <p>The Aitum Multistream Plugin lets you go live on as many platforms as possible, completely free.</p>
-    <p>Stop paying for expensive Multistreaming services and make the full use of your internet bandwidth.</p>
-    <p>Aitum Multistream guides you through getting set up.</p>
-    <p>You shouldn't need to be a stream professor to get started.</p>
+    <p>
+      Multistreaming shouldn't be difficult. Aitum Multistream makes that a reality.
+      The Aitum Multistream Plugin lets you go live on as many platforms as possible, completely free.
+      Stop paying for expensive Multistreaming services and make the full use of your internet bandwidth.
+      Aitum Multistream guides you through getting set up.
+      You shouldn't need to be a stream professor to get started.
+    </p>
   </description>
   <url type="homepage">https://aitum.tv/products/multi</url>
   <url type="vcs-browser">https://github.com/Aitum/obs-aitum-multistream</url>
@@ -20,39 +22,51 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
   <releases>
+    <release version="1.0.8" date="2026-05-21">
+      <description>
+      <ol>
+          <li>Add update question dialog</li>
+          <li>Add Chinese translation by liangzhiiu18718</li>
+          <li>Add Portuguese translation by Sty13</li>
+          <li>Split expanded and advanced mode</li>
+          <li>Fix encoder index visibility</li>
+          <li>Fix memory leak in output dialog</li>
+        </ol>
+      </description>
+    </release>
     <release version="1.0.7" date="2025-01-16">
       <description>
-        <li>
-          <ul>Fixed memory leak</ul>
-          <ul>Fixed potential crash on exit</ul>
-        </li>
+        <ol>
+          <li>Fixed memory leak</li>
+          <li>Fixed potential crash on exit</li>
+        </ol>
       </description>
     </release>
     <release version="1.0.6" date="2024-12-19">
       <description>
-        <li>
-          <ul>Fix for mac and linux OBS 31</ul>
-          <ul>Enable frame rate divisor and scale for vertical</ul>
-        </li>
+        <ol>
+          <li>Fix for mac and linux OBS 31</li>
+          <li>Enable frame rate divisor and scale for vertical</li>
+        </ol>
       </description>
     </release>
     <release version="1.0.5" date="2024-11-20">
       <description>
-        <li>
-          <ul>Added Bengali language (@rez1coder)</ul>
-        </li>
+        <ol>
+          <li>Added Bengali language (@rez1coder)</li>
+        </ol>
       </description>
     </release>
     <release version="1.0.4" date="2024-11-01">
       <description>
-        <li>
-          <ul>Added support for OBS 31</ul>
-          <ul>Added new Twitch ingests</ul>
-          <ul>Added Facebook domains</ul>
-          <ul>Changed YouTube logo</ul>
-          <ul>Added Russian language (dadec666)</ul>
-          <ul>Added Spanish language (COOLIGUAY)</ul>
-        </li>
+        <ol>
+          <li>Added support for OBS 31</li>
+          <li>Added new Twitch ingests</li>
+          <li>Added Facebook domains</li>
+          <li>Changed YouTube logo</li>
+          <li>Added Russian language (dadec666)</li>
+          <li>Added Spanish language (COOLIGUAY)</li>
+        </ol>
       </description>
     </release>
     <release version="1.0.3" date="2024-08-09"/>
