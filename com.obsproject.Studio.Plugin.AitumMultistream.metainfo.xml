@@ -22,8 +22,17 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
   <releases>
-    <release version="1.0.8" date="2026-05-24">
-      <description></description>
+    <release version="1.0.8" date="2026-05-21">
+      <description>
+      <ol>
+          <li>Add update question dialog</li>
+          <li>Add Chinese translation by liangzhiiu18718</li>
+          <li>Add Portuguese translation by Sty13</li>
+          <li>Split expanded and advanced mode</li>
+          <li>Fix encoder index visibility</li>
+          <li>Fix memory leak in output dialog</li>
+        </ol>
+      </description>
     </release>
     <release version="1.0.7" date="2025-01-16">
       <description>
