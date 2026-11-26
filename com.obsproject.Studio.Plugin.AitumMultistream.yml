@@ -2,7 +2,7 @@ id: com.obsproject.Studio.Plugin.AitumMultistream
 branch: stable
 runtime: com.obsproject.Studio
 runtime-version: stable
-sdk: org.freedesktop.Sdk//25.08
+sdk: org.freedesktop.Sdk//26.08
 build-extension: true
 separate-locales: false
 build-options:
@@ -22,8 +22,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/Aitum/obs-aitum-multistream
-        tag: 1.0.9
-        commit: 93add9859dfb280cae843bdf956b9a1a15d649e8
+        tag: 1.0.10
+        commit: 41329c56d8f1254b7b55a2821a44b08abeeab3bb
         x-checker-data:
           type: git
           is-main-source: true
